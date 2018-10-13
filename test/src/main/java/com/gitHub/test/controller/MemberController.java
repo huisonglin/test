@@ -7,7 +7,15 @@ public class MemberController {
 		
 	}
 	
+
 	public void teset2() {
+
+		
+	}
+
+
+	public void te() {
+	
 		
 	}
 }
