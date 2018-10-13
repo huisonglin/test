@@ -6,4 +6,8 @@ public class SecendEditIndexController {
 	public void test() {
 		
 	}
+	
+	public void t() {
+		
+	}
 }
