@@ -1,5 +1,5 @@
 package com.gitHub.test.controller;
 
-public class EditIndexController {
+public class SecendEditIndexController {
 
 }
