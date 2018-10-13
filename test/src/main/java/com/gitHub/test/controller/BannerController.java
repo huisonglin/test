@@ -3,6 +3,6 @@ package com.gitHub.test.controller;
 
 public class BannerController {
 
-  //小明
+  //孙悟空
 
 }
