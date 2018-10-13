@@ -1,5 +1,5 @@
 package com.gitHub.test.controller;
 
-public class IndexController {
+public class EditIndexController {
 
 }
